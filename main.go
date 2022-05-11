@@ -51,3 +51,10 @@ func main() {
 //The third example shows how to use multiple conditions using if else,
 // and the variable defined in the condition is available inside all conditional spaces.
 //In Golang, you do not need to use parentheses around the bet, but the content inside it should be in a space {}
+
+//Branching with if and else in Go is straight-forward.
+//Here’s a basic example.
+//we can have an if statement without an else.
+//A statement can precede conditionals; any variables declared in this statement are available in all branches.
+//Note that you don’t need parentheses around conditions in Go, but that the braces are required.
+//w’ll need to use a full if statement even for basic conditions.
